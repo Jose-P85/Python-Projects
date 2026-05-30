@@ -1,5 +1,6 @@
 # Python-Projects
 My python projects
+
 Project 1: Tortoise and Hare Probability Simulation
 
 Summary:
@@ -10,6 +11,7 @@ Key Features:
 Simulates 100,000 races.
 Random movement for both racers.
 Tracks total wins for each racer.
+
 Project 2: Movie Recommendation System
 
 Summary:
@@ -20,6 +22,7 @@ Key Features:
 Searches movies by genre.
 Filters movies by rating.
 Gives up to three recommendations.
+
 Project 3: Number Guessing Game
 
 Summary:
@@ -30,6 +33,7 @@ Key Features:
 Three difficulty levels.
 Five guess limit.
 Hints after incorrect guesses.
+
 Project 4: Slot Machine Simulator
 
 Summary:
